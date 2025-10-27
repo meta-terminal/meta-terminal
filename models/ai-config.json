@@ -1,0 +1,9 @@
+{
+  "active_models": ["Haiku 4.5", "Sonnet 4.5", "GPT-5", "Gemini 2.5 Pro"],
+  "deprecated_models": ["Sonnet 3.7", "GPT o3", "Gemini 2.0"],
+  "supported_languages": {
+    "python": { "ext": ".py", "cmd": "python3" },
+    "javascript": { "ext": ".js", "cmd": "node" },
+    "bash": { "ext": ".sh", "cmd": "bash" }
+  }
+}

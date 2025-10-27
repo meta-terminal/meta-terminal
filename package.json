@@ -1,0 +1,11 @@
+{
+  "name": "meta-terminal",
+  "version": "1.0.0",
+  "description": "Self-upgrading AI-powered terminal platform",
+  "main": "run.js",
+  "scripts": {
+    "start": "node run.js"
+  },
+  "author": "Majid121232 <majidandish11@gmail.com>",
+  "license": "MIT"
+}
